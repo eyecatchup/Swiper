@@ -1,4 +1,18 @@
 # Change Log
+## Swiper 2.7.5 - Updated on January 4, 2015
+
+  * "swipeNext" and "swipePrev" methods now support second "runCallbacks" arguments as in "swipeTo" method
+  * "destroy" method supports "removeStyles" argument, which will also remove all set styles from "swiper-wrapper"
+  * Better check for loaded images
+  * Fixed issue with window blur in IE
+  * Lot of minor fixes
+
+## Swiper 2.7.0 - Updated on August 30, 2014
+
+  * New API parameters "swipeToNext", "swipeToPrev" to enable/disable one-direction swipes
+  * "cssWidthAndHeight" parameter could also accept "width" or "height" strings
+  * Better support for form elements on touch devices
+  * Lot of minor fixes
 
 ## Swiper 2.6.1 - Updated on May 6, 2014
 
